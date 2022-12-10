@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/hakturan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/WebCrawlerConsole.csproj",
+      "projectName": "WebCrawlerConsole",
+      "projectPath": "/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/WebCrawlerConsole.csproj",
+      "packagesPath": "/Users/hakturan/.nuget/packages/",
+      "outputPath": "/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/hakturan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/hakturan/.dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

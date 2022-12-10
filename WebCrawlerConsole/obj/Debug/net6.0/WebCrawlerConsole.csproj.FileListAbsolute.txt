@@ -1,0 +1,15 @@
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/bin/Debug/net6.0/WebCrawlerConsole
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/bin/Debug/net6.0/WebCrawlerConsole.deps.json
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/bin/Debug/net6.0/WebCrawlerConsole.runtimeconfig.json
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/bin/Debug/net6.0/WebCrawlerConsole.dll
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/bin/Debug/net6.0/WebCrawlerConsole.pdb
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/WebCrawlerConsole.csproj.AssemblyReference.cache
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/WebCrawlerConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/WebCrawlerConsole.AssemblyInfoInputs.cache
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/WebCrawlerConsole.AssemblyInfo.cs
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/WebCrawlerConsole.csproj.CoreCompileInputs.cache
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/WebCrawlerConsole.dll
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/refint/WebCrawlerConsole.dll
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/WebCrawlerConsole.pdb
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/WebCrawlerConsole.genruntimeconfig.cache
+/Users/hakturan/Documents/C# .Net/WebCrawlerConsole/WebCrawlerConsole/obj/Debug/net6.0/ref/WebCrawlerConsole.dll
